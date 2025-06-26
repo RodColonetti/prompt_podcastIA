@@ -15,7 +15,6 @@ O **Prompto Final** nasceu com o objetivo de **simplificar o uso da IA para inic
 - **ChatGPT** – Geração de roteiro e prompts personalizados
 - **MidJourney** – Criação de capas e artes visuais
 - **ElevenLabs** – Geração de voz e narração com entonação natural
-- **CapCut** – Edição de áudio e inserção de trilhas e efeitos sonoros
 
 ---
 
